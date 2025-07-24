@@ -33,17 +33,21 @@
 pkg update && pkg upgrade
 pkg install python git -y
 pip install requests beautifulsoup4 fpdf
+---
 
 ### ✅ For Linux:
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip git -y
 pip3 install requests beautifulsoup4 fpdf
+---
 
  ### 🚀 Usage
 ```bash
 python zerorecon.py
+---
 
 ### 📦 example
 ```bash
 Enter target domain: example.com
+---
