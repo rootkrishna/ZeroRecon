@@ -36,19 +36,18 @@ pip install requests beautifulsoup4 fpdf
 
 BY KRISHNA ------
 
-### ✅ For Linux:
-```bash
+✅ For Linux:
+
 sudo apt update
 sudo apt install python3 python3-pip git -y
 pip3 install requests beautifulsoup4 fpdf
 ---
 
- ### 🚀 Usage
-```bash
+🚀 Usage
+
 python zerorecon.py
 ---
+ 📦 example
 
-### 📦 example
-```bash
 Enter target domain: example.com
 ---
