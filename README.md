@@ -33,7 +33,8 @@
 pkg update && pkg upgrade
 pkg install python git -y
 pip install requests beautifulsoup4 fpdf
----
+
+BY KRISHNA ------
 
 ### ✅ For Linux:
 ```bash
